@@ -1,5 +1,5 @@
 ---
-title: "Acumen"
+title: "About Us"
 page_title: "About our company"
 buttons:
   
