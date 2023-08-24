@@ -9,18 +9,27 @@
       "url": "/about"
     },
     {
-      "name": "Updates",
-      "url": "/blog"
-    },
-    {
       "name": "Insights",
       "url": "/insights"
     },
     {
-      "name": "How It Works",
-      "url": "/how-it-works"
+      "name": "Updates",
+      "url": "/blog"
     },
     
+    {
+      "name": "Services",
+      "url": "/services"
+    },
+    
+    {
+      "name": "Industries",
+      "url": "/how-it-works"
+    },
+    {
+      "name": "Career",
+      "url": "/career"
+    },
     {
       "name": "Contact",
       "url": "/contact"
@@ -46,5 +55,3 @@
     }
   ]
 }
-
-

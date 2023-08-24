@@ -6,6 +6,11 @@ import Social from "@components/Social.astro";
 import config from "@config/config.json";
 import menu from "@config/menu.json";
 import social from "@config/social.json";
+
+import stindia from "public/images/st-india.png";
+import thub from "public/images/thub.png";
+import mfstartup from "public/images/Microsoft-for-Startups.webp";
+
 import { markdownify } from "@lib/utils/textConverter";
 // import Image from "astro/components/Image.astro";
 const { footer } = menu;
@@ -25,32 +30,61 @@ const { copyright, location, email, phone, footer_description } = config.params;
 
         <!-- <div class="row"><Logo /></div>
          -->
-        <div class="grid grid-cols-1 gap-1 md:grid-cols-2 lg:grid-cols-3">
+        <div class="grid grid-cols-1 gap-2 md:grid-cols-2 lg:grid-cols-3">
           <!-- <Picture src={}></Picture> -->
           <Image
-          class="mx-auto"
-          src="images/st-india.png"
-          width={100}
-          height={60}
-          alt=""
-        />
-          
+            src={stindia}
+            alt="Startup India"
+            width={120}
+            height={80} 
+            
+            
+            loading="eager"
+            format="avif"
+          />
           <Image
-          class="mx-auto"
-          src="images/Microsoft-for-Startups.webp"
-          width={100}
-          height={60}
-          alt=""
-        />
-        <Image
-          class="mx-auto"
-          src="images/thub.png"
-          width={100}
-          height={60}
-          alt=""
-        />
-          
-          
+            src={mfstartup}
+            alt="Microsoft for Startups"
+            width={120}
+            height={80} 
+            
+            
+            loading="eager"
+            format="avif"
+          />
+          <Image
+            src={thub}
+            alt="T"
+            width={90}
+            height={60} 
+            
+            
+            loading="eager"
+            format="avif"
+          />
+          <!-- Image tag did not work so changes it to Picture -->
+          <!-- <Image
+            class="mx-auto"
+            src="images/st-india.png"
+            width={100}
+            height={60}
+            alt=""
+          />
+
+          <Image
+            class="mx-auto"
+            src="images/Microsoft-for-Startups.webp"
+            width={100}
+            height={60}
+            alt=""
+          />
+          <Image
+            class="mx-auto"
+            src="images/thub.png"
+            width={100}
+            height={60}
+            alt=""
+          /> -->
         </div>
       </div>
       <div class="col-12 mt-12 md:col-6 lg:col-3">

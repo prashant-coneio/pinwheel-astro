@@ -1,6 +1,7 @@
 ---
 import { Image } from "@astrojs/image/components";
-
+import { Picture } from "@astrojs/image/components";
+import fbanner from "public/images/features-banner-img1.png";
 const {
   features: { title, banner },
 } = Astro.props;
@@ -51,13 +52,22 @@ const {
         } -->
       </div>
       <div class="lg:col-6 lg:order-2">
-        <Image
+        <Picture
+            src={fbanner}
+            alt="Feature Banner"
+            widths={[200, 400, 600]}
+            aspectRatio="4:3"
+            sizes="(max-width: 800px) 100vw, 620px"
+            loading="eager"
+            format="avif"
+          />
+        <!-- <Image
           class="mx-auto"
           src="images/features-banner-img1.png"
           width={412}
           height={483}
           alt=""
-        />
+        /> -->
       </div>
     </div>
   </div>
