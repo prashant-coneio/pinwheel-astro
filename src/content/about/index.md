@@ -1,12 +1,12 @@
 ---
 title: "About Us"
 page_title: "About our company"
-buttons:
+# buttons:
   
-  - label: Learn More
-    link: "#"
-    outline: true
-    enable: true
+#   - label: Learn More
+#     link: "#"
+#     outline: true
+#     enable: true
 
 # counter
 counter:
@@ -40,18 +40,18 @@ features:
   title: The six core work <br /> drive everything do
   
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Navigating the Complexity
+      content: Simplifying cross-border trade, Coneio streamlines global commerce by bridging regulatory gaps, empowering businesses to expand their horizons. 
+    - title: Seamless Cross-Border Trade
+      content: Connect sellers and buyers worldwide effortlessly with Coneio's integrated platform, making international trade a frictionless experience. 
+    - title: Unlocking Global Markets
+      content: Coneio paves the way for borderless commerce, enabling businesses to access untapped markets and reach customers around the globe. 
+    - title: Empowering Businesses Worldwide
+      content: Overcome cross-border challenges with Coneio's solution, empowering businesses of all sizes to thrive on the international stage. 
+    - title: Breaking Boundaries
+      content: Coneio envisions a world of inclusive international trade, where barriers fade, and businesses flourish across borders.
+    - title: From Origin to Doorstep
+      content: Coneio's end-to-end solution takes your goods from origin to buyer's doorstep, ensuring compliance with regulatory frameworks. 
     
 
 ## members
@@ -78,4 +78,4 @@ members:
       field: Software Engineer
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+Coneio leverages cutting-edge technologies like Machine Learning and RFID to seamlessly integrate ecosystem value-added partners (ESVAPs) into our platform. We create a B2B cross-border e-commerce marketplace allowing exporters to present goods to importers in their own currency, from origin to the buyer's doorstep.

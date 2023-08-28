@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Consulting solutions meticulously designed to address your specific needs"
+  content: "Our comprehensive consulting company stands ready to provide expert assistance tailored to your precise business requirements. Should you seek guidance in any of the following areas, we are fully equipped to deliver effective solutions"
   image: /images/banner-img.png
   button:
     label: Download The Theme
@@ -10,39 +10,39 @@ banner:
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "The Highlighting Parts Of Our Consulting Solutions"
+  description:  
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: International Legislation and Environment Issue 
+      content: Product Regulations and Restrictions, Hazardous Materials Management, Eco-labeling and Certification, Conflict Minerals Compliance, Legal Risks and Liabilities
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Cost & Time Life Cycle Estimation
+      content: End to End lead time calculations, Manpower Estimations, Cost Estimations (Actual Cost), Procurement Planning
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Technical and Non-technical measure
+      content: Technical Measures, Contingent Measures, Licensing, Quotas, and Other Quality, Price Control Measures, Finance Measures, Measures Affecting Competitions, Trade – Related Investment Measures
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Risk Assessment 
+      content: Mitigation Strategies, Contingency Planning, Supplier Assessment, Collaboration and Communication, Monitoring and Review, Technology and Data Utilization
     - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Audit and Assurances 
+      content: Supplier Evaluation and Selection, Quality Assurance, Compliance with Regulations, Environmental Compliance, Customs and Tariff Management, Financial Auditing
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Disruptive Technologies 
+      content: IT Architecture, Cloud Infrastructure, Blockchain, Machine Learning and Artificial Intelligence
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Supply chain
+      content: Transport Plan Storage, Port & Shipment Inspections, Product Return Management
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Product Management
+      content: Standard and Certification for Quality Control, Regulatory Trade Documentation Product Origin and Destination, Packaging Requirements
+    # - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
+    #   title: Smart Reply
+    #   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    # - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
+    #   title: Live Caption
+    #   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #service
 service:
