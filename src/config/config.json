@@ -18,8 +18,8 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Helping Teams in the World with Focus",
+    "description": "To ease trade barriers, convenience of getting the product at your doorstep, international trade regulatory compliant.",
     "button": {
       "label": "Download The Theme",
       "link": "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -27,7 +27,7 @@
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },

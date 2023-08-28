@@ -2,7 +2,7 @@
 title: 
 subtitle: 
 image: "/images/posts/post-1.png"
-author: Anurag Gupta
+author: Poonam Ladia
 date: 2023-12-31T05:00:00Z
 categories: [""]
 featured: false

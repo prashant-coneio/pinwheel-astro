@@ -1,7 +1,7 @@
 ---
 title: Insights
 banner:
-  title: Dedicated to exploring the intricacies of supply chains and compliance management.
+  title: Dedicated to Exploring the Intricacies of Supply Chains and Compliance Management.
   content: We navigate these compliance issues of companies with our experts and stay updated on relevant changes in regulations. Customizing supply chain compliances strategies to address these considerations is crucial for successful cross-border trade. we Keep in mind that these considerations can be varied by country to country and industry to industry, with thorough research with professional advice. 
   image: "/images/features-banner-img.png"
   button:
@@ -9,7 +9,7 @@ banner:
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 project_management:
-  title: Some common compliance issues  considered in cross-border trades
+  title: Some Common Compliance Issues  Considered in Cross-Border Trades
   content: 
   management:
     title: Project Management
@@ -40,13 +40,13 @@ project_management:
         icon: tool  #icon package react-feather-icon [https://feathericons.com/]
       
   feature_service:
-    title: We offer AI-powered technology solutions for any country on the globe.
-    description: Our AI powered compliance platform offers understanding of 15000 global laws in affecting cross-border trade in a simplified manner. For instance, for exporting sugar from India we would need to comply with complex requirements as mentioned in the image.  
+    title: We Offer AI-powered Technology Solutions for any Country on the Globe.
+    description: Our AI powered compliance platform offers understanding of 15000+ global laws and simplifying cross-border trade. For instance, when exporting sugar from India, it's crucial to follow the detailed requirements shown in the image.
     image: "/images/features/feature-img-5.png"
     list:
-      - Supporting more than 200 countries world
-      - More than 15000 cross border laws covering events to be done for the cross border trades
-      - HS classification, import control, export control, rules of origin covered
+      - Supporting 200+ countries worldwide
+      - 15000+ cross border for trade events
+      - Covering HS Classification, Import Control, Export Control and Rules of Origin
     buttons:
       - label: Download The Theme
         link: "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -56,15 +56,15 @@ project_management:
         outline: true
         enable: true
   feature_tab:
-    title: Compliance platform for every stage of your business growth
+    title: Compliance Platform for Every Stage of your Business Growth
     list:
       - title: We have developed the perfect global compliance platform for your business needs for any product
-        content: It enables you to directly integrate with our community ecosystem partners to handle cross border trade seamlessly.
+        content: It enables you to directly integrate with our community's ecosystem partners to handle cross border trade seamlessly.
         image: "/images/features/feature-img-6.png"
-      - title: We have a subscription based customized solutions.
-        content: It helps you to understand compliance related to your products in minutes.
+      - title: We have subscription based customized solutions.
+        content: Our customized solutions swiftly enhance your understanding of product-related compliances
         image: "/images/features/feature-img-6.png"
       - title: For example, Better HS Classification 
-        content: HS Classification for UAE for the products falls under '481910' having are usage basis like perfume gifts etc. Our platform enables you to understand complaiance involved for any point of the globe.
+        content: Our platform enables a comprehensive understanding of global compliance requirements, encompassing products like perfumed gifts, and specifically addressing HS Classification '481910' applicable to the UAE.
         image: "/images/features/feature-img-6.png"
 ---

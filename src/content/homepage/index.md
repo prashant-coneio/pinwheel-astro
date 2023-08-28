@@ -1,8 +1,8 @@
 ---
 banner:
-  title: "Consulting solutions meticulously designed to address your specific needs"
+  title: "Consulting Solutions Meticulously Designed to Address your Specific Needs"
   content: "Our comprehensive consulting company stands ready to provide expert assistance tailored to your precise business requirements. Should you seek guidance in any of the following areas, we are fully equipped to deliver effective solutions"
-  image: /images/banner-img.png
+  image: /images/home-page-2.jpg
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -61,21 +61,21 @@ service:
           image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    - title: Supply Chain Consulting for the Globe
+      desctiption: 
       image: "/images/collaboration.png"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+        - Supporting for 182+ countries' compliances
+        - Understanding of 15000+ global laws impacting cross-border trade 
+        - AI Driven Consulting
+    - title: About Coneio as a Group
+      description: Coneio employs cutting-edge technologies like Machine Learning (ML) and RFID to seamlessly integrate Eco-System Value-Added Partners (ESVAPs) into our platform. This create a cross-border marketplace, empowering exporters to present their goods to importers in the buyer's currency, all the way from origin to their doorsteps.
       video:
-        thumbnail: "/images/intro-thumbnail.png"
-        video_id: "g3-VxLQO7do"
+        thumbnail: "/images/logo.jpg"
+        video_id: "4U_wsGW6M4g"
       button:
         label: Know About Us
-        link: "#"
+        link: "https://www.coneio.com"
         enable: true
 
 #testimonial

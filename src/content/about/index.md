@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-page_title: "About our company"
+page_title: "About Coneio Consulting"
 # buttons:
   
 #   - label: Learn More
@@ -10,30 +10,33 @@ page_title: "About our company"
 
 # counter
 counter:
-  - name: "Customers"
-    number: 25
+  - name: "Clients"
+    number: 225
     messurment: M
     color: "#A3A1FB"
-  - name: "Customers"
-    number: 440
+  - name: "Countries"
+    number: 3
     messurment: M
     color: "#5EE2A0"
-  - name: "Customers"
-    number: 50
+  - name: "Projects"
+    number: 1500
     messurment: K
     color: "#FE6019"
-  - name: "Customers"
-    number: 20
+  - name: "Coffee with Clients"
+    number: 400
     messurment: K
     color: "#FEC163"
     
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs
+  title: Paving Success Pathways with Remarkable Milestones
   images:
-    - "/images/about/gallery-img-1.png"
-    - "/images/about/gallery-img-3.png"
-    - "/images/about/gallery-img-2.png"
+    - "/images/about/about-5.jpg"
+    - "/images/about/about-2.jpg"
+    - "/images/about/about-7.jpg"
+    - "/images/about/about-3.jpg"
+    
+    
 
 ## our works
 features:
@@ -56,26 +59,25 @@ features:
 
 ## members
 members:
-  title: This is who we are
-  description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
+  title: Our Team
+  description: 
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: Poonam Ladia
+      field: DGFT Consultant
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Anjani Kant
+      field: Supply Chain Strategist  
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
+    - name: Bhamini Rawal 
+      field: Supply Chain Expert
       image: "/images/users/user-3.png"
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: Prashant Sharma
+      field: Software Engineer 
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Varun Papesetty
+      field: Compliance AI Engineer 
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
+   
 ---
-Coneio leverages cutting-edge technologies like Machine Learning and RFID to seamlessly integrate ecosystem value-added partners (ESVAPs) into our platform. We create a B2B cross-border e-commerce marketplace allowing exporters to present goods to importers in their own currency, from origin to the buyer's doorstep.
+
+Welcome to Coneio Consulting – your gateway to global expansion. We expertly navigate international markets, ensuring cross-border success through strategic insights. Partner with us for seamless compliance with trade laws. Our foreign trade consulting includes providing advice on export and import regulations, GST, customs duties, trade agreements, market research, documentation requirements, and more. 
