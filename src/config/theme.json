@@ -2,26 +2,26 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#FE6019",
-        "secondary": "#fafafa",
-        "body": "#fafafa",
+        "primary": "#013c5bff",
+        "secondary": "#0047AB",
+        "body": "#0047AB",
         "border": "#EBEBEB",
         "theme_light": "#E5E5E5",
-        "theme_dark": "#1a202c"
+        "theme_dark": "#0047AB"
       },
       "text_color": {
         "default": "#888888",
         "dark": "#222",
-        "light": "#ceced0"
+        "light": "#0047AB"
       }
     }
   },
 
   "fonts": {
     "font_family": {
-      "primary": "Ubuntu:wght@400;500;600;700",
+      "primary": "Inter:wght@400;500;600;700",
       "primary_type": "sans-serif",
-      "secondary": "Ubuntu:wght@400;500;600;700",
+      "secondary": "Inter:wght@400;500;600;700",
       "secondary_type": "sans-serif"
     },
     "font_size": {

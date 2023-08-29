@@ -45,7 +45,7 @@ project_management:
     image: "/images/features/feature-img-5.png"
     list:
       - Supporting 200+ countries worldwide
-      - 15000+ cross border for trade events
+      - 15000+ cross-border laws for trade events
       - Covering HS Classification, Import Control, Export Control and Rules of Origin
     buttons:
       - label: Download The Theme

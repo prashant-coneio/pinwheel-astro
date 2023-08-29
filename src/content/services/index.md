@@ -40,21 +40,22 @@ features:
   title: Services
   
   features_list:
-    - title:  Customs Advisory
-      content: Streamlining imports, exports, tariffs, and compliance for growth-oriented solutions, we're your trusted partner in international business success.      
-      
+    
     
     - title: Indirect Tax Consulting
       content: Effortlessly tackle intricate tax challenges with our Indirect Tax Consulting. Expert insights on VAT, GST, and compliance optimize your growth strategies.
 
     - title: Product Advisory
       content: Enhance products through our advisory. From concept to market, we offer expert insights to enhance development, quality, and marketability, driving your success.
-
     - title: GST Refunds
       content: Streamline your tax journey with hassle-free GST refunds. Our experts navigate the process efficiently, ensuring you receive your refunds promptly and with minimal complexities. 
+    
+    - title:  Customs Advisory
+      content: Unlock seamless global trade with our Customs Advisory expertise. Streamlining imports, exports, tariffs, and compliance for growth-oriented solutions, we're your trusted partner in international business success.     
+      
 
     - title: Foreign Trade Consulting
-      content: Unlock global opportunities with our Foreign Trade Consulting. From market entry to compliance, our experts provide insights that drive seamless international expansion for your business.
+      content: Unlock boundless global opportunities with our Foreign Trade Consulting expertise. From market entry to meticulous compliance, our experts drive seamless international expansion for your business's prosperity.
 
     - title: SEZ Setup Assistance
       content: Simplify SEZ setup with our expert assistance. From planning to execution, we guide you through the process, ensuring a smooth and successful establishment in Special Economic Zones.

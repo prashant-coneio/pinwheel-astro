@@ -2,7 +2,7 @@
 banner:
   title: "Consulting Solutions Meticulously Designed to Address your Specific Needs"
   content: "Our comprehensive consulting company stands ready to provide expert assistance tailored to your precise business requirements. Should you seek guidance in any of the following areas, we are fully equipped to deliver effective solutions"
-  image: /images/home-page-2.jpg
+  image: /images/home-page-6.png
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -63,7 +63,7 @@ service:
   our_service:
     - title: Supply Chain Consulting for the Globe
       desctiption: 
-      image: "/images/collaboration.png"
+      image: "/images/home-page-7.png"
       list:
         - Supporting for 182+ countries' compliances
         - Understanding of 15000+ global laws impacting cross-border trade 
@@ -71,7 +71,7 @@ service:
     - title: About Coneio as a Group
       description: Coneio employs cutting-edge technologies like Machine Learning (ML) and RFID to seamlessly integrate Eco-System Value-Added Partners (ESVAPs) into our platform. This create a cross-border marketplace, empowering exporters to present their goods to importers in the buyer's currency, all the way from origin to their doorsteps.
       video:
-        thumbnail: "/images/logo.jpg"
+        thumbnail: "/images/logo-nobg.png"
         video_id: "4U_wsGW6M4g"
       button:
         label: Know About Us
