@@ -29,12 +29,13 @@ const page_data = {
       <div class="row">
         <div class="mb-10 text-center md:col-6 md:order-2 md:mb-0 md:pt-9">
           <div class="contact-img relative inline-flex pb-5 pl-5">
-            <Image
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6217.424819334762!2d78.41302720617628!3d17.496511019955985!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9177df0e711f%3A0xf75bacf260b23cdd!2sConeio%20Exim%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1693819307877!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <!-- <Image
               src="/images/contact-img.png"
               height={544}
               width={500}
               alt=""
-            />
+            /> -->
             <!-- <Image
               class="absolute bottom-0 left-0 -z-[1] h-14 w-14"
               src="/images/shape-2.png"
@@ -69,6 +70,16 @@ const page_data = {
               />
             </div>
             <div class="form-group mb-5">
+              <label class="form-label" for="subject">Subject</label>
+              <input
+                class="form-control"
+                type="text"
+                id="subject"
+                placeholder="Your Subject for Query"
+              />
+            </div>
+            
+            <!-- <div class="form-group mb-5">
               <label class="form-label" for="reason">Reason/Purpose</label>
               <select name="reason" id="reason" class="form-select" required>
                 <option value="">Select reason/purpose</option>
@@ -76,7 +87,7 @@ const page_data = {
                 <option value="investment plane-2">Investment Plan 2</option>
                 <option value="investment plane-3">Investment Plan 3</option>
               </select>
-            </div>
+            </div> -->
             <div class="form-group mb-5">
               <label class="form-label" for="message">Message Here</label>
               <textarea

@@ -64,19 +64,19 @@ members:
   member_list:
     - name: Poonam Ladia
       field: DGFT Consultant
-      image: "/images/users/user-1.png"
+      image: "/images/users/poonam-ladia.png"
     - name: Anjani Kant
       field: Supply Chain Strategist  
-      image: "/images/users/user-2.png"
+      image: "/images/users/anjani-kant.png"
     - name: Bhamini Rawal 
       field: Supply Chain Expert
-      image: "/images/users/user-3.png"
+      image: "/images/users/bhamini-rawal.png"
     - name: Prashant Sharma
       field: Software Engineer 
-      image: "/images/users/user-1.png"
+      image: "/images/users/prashant-sharma.png"
     - name: Varun Papesetty
       field: Compliance AI Engineer 
-      image: "/images/users/user-2.png"
+      image: "/images/users/varun-papesetty.png"
    
 ---
 
