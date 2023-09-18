@@ -19,11 +19,7 @@
 
   "call_to_action": {
     "title": "Helping Teams in the World with Focus",
-    "description": "To ease trade barriers, convenience of getting the product at your doorstep, international trade regulatory compliant.",
-    "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
-    }
+    "description": "To ease trade barriers, convenience of getting the product at your doorstep, international trade regulatory compliant."
   },
 
   "disqus": {
@@ -33,7 +29,7 @@
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "footer_description": "Coneio Consulting",
     "email": "consulting@coneio.com",
     "location": "401, 22/3/1/A, Above Axis Bank, Road No.2, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana, India - 500072",
     "phone": "+91-9381346767",
@@ -42,8 +38,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "pinwheel astro"
+    "meta_author": "Prashant Sharma",
+
+    "meta_description": "Coneio Consulting"
   }
 }

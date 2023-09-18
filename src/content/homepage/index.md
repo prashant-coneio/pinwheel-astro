@@ -3,10 +3,7 @@ banner:
   title: "Consulting Solutions Meticulously Designed to Address your Specific Needs"
   content: "Our comprehensive consulting company stands ready to provide expert assistance tailored to your precise business requirements. Should you seek guidance in any of the following areas, we are fully equipped to deliver effective solutions"
   image: /images/home-page-6.png
-  button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+  
 
 ##key features
 key_features:

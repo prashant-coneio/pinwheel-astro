@@ -4,10 +4,7 @@ banner:
   title: Dedicated to Exploring the Intricacies of Supply Chains and Compliance Management.
   content: We navigate these compliance issues of companies with our experts and stay updated on relevant changes in regulations. Customizing supply chain compliances strategies to address these considerations is crucial for successful cross-border trade. we Keep in mind that these considerations can be varied by country to country and industry to industry, with thorough research with professional advice. 
   image: "/images/features-banner-img.png"
-  button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+ 
 project_management:
   title: Some Common Compliance Issues  Considered in Cross-Border Trades
   content: 
@@ -47,14 +44,7 @@ project_management:
       - Supporting 200+ countries worldwide
       - 15000+ cross-border laws for trade events
       - Covering HS Classification, Import Control, Export Control and Rules of Origin
-    buttons:
-      - label: Download The Theme
-        link: "https://themefisher.com/astro-themes/pinwheel-astro"
-        enable: true
-      - label: Learn More
-        link: "#"
-        outline: true
-        enable: true
+    
   feature_tab:
     title: Compliance Platform for Every Stage of your Business Growth
     list:
